@@ -1,1 +1,1 @@
-
+Personal excercise repo from [Learn Python and Ethical Hacking From Scratch by Zaid Sabih](https://www.udemy.com/share/101WfEBUEacl1XTH4=/) -- some I have played with/added to for additonal learning, some not. Great Course--please check him out on Udemy at the link to learn wayyyyy more :). 
