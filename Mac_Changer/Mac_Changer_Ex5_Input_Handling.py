@@ -2,6 +2,7 @@
 
 # Import subprocesses for execution across multiple OSs
 # Python 3 function used--must run w/ python3
+# Addresses insecurity in subprocess strings to prevent from executing additional Linux commands during user input  
 
 import subprocess
 
