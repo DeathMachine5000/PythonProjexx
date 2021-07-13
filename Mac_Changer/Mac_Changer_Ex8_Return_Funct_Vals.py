@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 # Import subprocesses for execution across multiple OSs
-# Python 3 function used (input) --must run w/ python3
 # Addresses insecurity in subprocess strings to prevent from executing additional Linux commands during user input
 # Adds option parsing to create help menu and options for user input.
 # Creates function out of CLI commands and consolidates variables into function call
